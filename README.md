@@ -1,6 +1,6 @@
 # Olá 👋, eu sou João Lucas Reis 
 
-🚀 **Engenheiro de Software Junior | JavaScript & Python**
+🚀 **Engenheiro de Software Junior | Java & Python**
 🇧🇷 Brasil · Construindo produtos que escalam, duram e geram valor real.
 
 ---
